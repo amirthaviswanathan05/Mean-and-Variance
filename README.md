@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+# Name: AMIRTHAVARSHINI V
+# Register Number: 212223040014
+# Date:
 
 # Aim : 
 
